@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "name": "Ppe",
+      "phone": "9393",
+      "email": "S@s",
+      "company": "Pepewswss",
+      "id": 1
+    },
+    {
+      "name": "OcultoVisible",
+      "phone": "93",
+      "email": "Juan@s",
+      "company": "Pete",
+      "id": 3
+    }
+  ]
+}
